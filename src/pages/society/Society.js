@@ -7,6 +7,7 @@ export default function Society() {
   return (
     <div>
          <Navbar />
+         <section></section>
          <Footer />
     </div>
   )
